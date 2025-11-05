@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="50" viewBox="0 0 180 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.16" y1="0.151" x2="0.807" y2="0.888" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2cb1bc"/>
+      <stop offset="1" stop-color="#96c2fb"/>
+    </linearGradient>
+    <clipPath id="clip-logo">
+      <rect width="180" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <text id="Jobbify" transform="translate(65 7)" fill="#38bec9" font-size="30" font-family="Cascadia Mono" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="28">Job</tspan><tspan y="28" fill="#54d1db">b</tspan><tspan y="28" fill="#14919b">i</tspan><tspan y="28">fy</tspan></text>
+    <circle id="椭圆_3" data-name="椭圆 3" cx="25" cy="25" r="25" fill="url(#linear-gradient)"/>
+    <text id="J" transform="translate(4 40)" fill="#fff" font-size="39" font-family="SegoeScript, Segoe Script"><tspan x="0" y="0">J</tspan></text>
+  </g>
+</svg>
